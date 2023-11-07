@@ -1,6 +1,6 @@
-# Project Name
+# Bye-Wifi
 
-A brief description of what your project does.
+Bye-Wifi is a simple tool to make a short attack on any ip address within your wifi network.
 
 ## Table of Contents
 
