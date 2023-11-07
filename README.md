@@ -32,7 +32,7 @@ Now the tool has an English version if you want to use it just change:
 
 to 
 
-```bash Bye-Wifi_en```
+```bash Bye-Wifi_en-sh```
 
 
 ## License
