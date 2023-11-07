@@ -1,30 +1,42 @@
-###### Bye-Wifi
-Bye-Wifi is a simple tool for direct attack on an ip address connected to your network which by means of an attack will temporarily prohibit internet access to the selected ip. A simple and functional tool
+# Project Name
 
-##### Requirements
-The tool use this sub-tools for work
+A brief description of what your project does.
 
-arp-scan
+## Table of Contents
 
-dsniff
+- [Installation](#installation)
+- [Usage (soon)](#usage)
+- [Updates](#updates)
+- [License](#license)
 
-##### Usage
-1. Clone this repository to your local machine
+## Installation
+   Copy the repository to your computer:
+   
+   ```git clone (repository link)```
 
- ```
-    git clone https://github.com/DevcTrainer/Bye-Wifi
- ```
- 
-2. Go to the directory
+   Navigate to the tool's folder:
 
-   ```
-   cd Bye-Wifi
-   ```
-3. Execute the tool
-   ```
-    bash Bye-Wifi.sh
-   ```
-4. Enjoy the tool
+   ```cd Bye-Wifi```
 
-######DISCLAIMER
-The tool it's totaly on spanish i will work on a english version
+   Run the tool:
+
+   ```bash Bye-Wifi```
+
+## Updates
+
+V1.1
+
+Now the tool has an English version if you want to use it just change: 
+
+```bash Bye-Wifi.sh``` 
+
+to 
+
+```bash Bye-Wifi_en```
+
+
+## License
+
+**Copyright © 2023 DevcTrainer**
+
+*This project is licensed under the [MIT License](LICENSE).*
